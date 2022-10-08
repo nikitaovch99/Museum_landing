@@ -10,5 +10,5 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 7. Implemented footer.
 
 To check the landing page simply click on demo link.
-  [DEMO LINK](https://nikitaovch99.github.io/Museum_2/).
+  [DEMO LINK](https://nikitaovch99.github.io/Museum_landing/).
 
